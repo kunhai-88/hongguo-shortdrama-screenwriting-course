@@ -160,6 +160,7 @@
 ├── INDEX.md
 ├── SOURCES.md
 ├── NOTICE.md
+├── LICENSE.md
 ├── pdf/
 │   └── hongguo-shortdrama-course-01-10-balanced-print.pdf
 └── lessons/
@@ -171,6 +172,8 @@
         └── assets/
 ```
 
-## 版权说明
+## 版权和使用说明
 
-本仓库不主张对原公众号文章内容拥有版权。详见 [NOTICE.md](NOTICE.md)。
+本仓库是学习整理用途，不是对原公众号文章和图片的开源再授权。原文正文、图片、课程品牌和相关权益归原作者、原公众号及相关权利方所有。
+
+更完整的说明见 [LICENSE.md](LICENSE.md) 和 [NOTICE.md](NOTICE.md)。
