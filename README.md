@@ -1,66 +1,62 @@
 # 红果短剧编剧第一课整理
 
-这是「红果短剧创作服务平台」公众号《短剧编剧第一课》01-10 期的学习整理仓库，方便阅读、检索和打印。
+这个仓库整理了「红果短剧创作服务平台」公众号《短剧编剧第一课》01-10 期内容，适合用来系统学习短剧编剧的入门方法、打印阅读和快速查找重点。
 
-> 说明：本仓库为学习整理用途。文章内容、图片和课程权益归原作者/原公众号/相关权利方所有。公开传播或商业使用前，请自行确认转载授权。
+> 说明：本仓库为学习整理用途。文章正文、图片、课程品牌和相关权益归原作者、原公众号及相关权利方所有。公开传播或商业使用前，请自行确认转载授权。
 
-## 内容
+## 你可以在这里获得什么
 
-- [课程索引](INDEX.md)
-- [原文来源](SOURCES.md)
-- [推荐打印版 PDF：01-10 合并，43 页](pdf/hongguo-shortdrama-course-01-10-balanced-print.pdf)
-- [省纸打印版 PDF：01-10 合并，37 页](pdf/hongguo-shortdrama-course-01-10-compact-print.pdf)
-- 每期 Markdown：`lessons/lesson-XX/article.md`
-- 每期正文打印 Markdown：`lessons/lesson-XX/article-print.md`
-- 每期单独 PDF：`lessons/lesson-XX/printable.pdf`
+- **一份合并打印版 PDF**：01-10 期合订，43 页，适合直接打印阅读。  
+  [下载 PDF](pdf/hongguo-shortdrama-course-01-10-balanced-print.pdf)
+- **10 期 Markdown 正文**：每期一份，方便在线阅读、复制摘录和检索。  
+  从 [课程索引](INDEX.md) 进入。
+- **每期单独 PDF**：适合只打印其中某一讲。
+- **原文来源表**：每期都保留公众号原文链接，方便回看出处。  
+  查看 [SOURCES.md](SOURCES.md)。
 
-## 课程列表
+## 课程目录
 
-| 课次 | 标题 | 发布时间 | 单期 PDF | 原文 |
-| --- | --- | --- | --- | --- |
-| 01 | [短剧编剧第一课｜01期：新人入行前必看的创作指南](lessons/lesson-01/article.md) | 2025-10-31 12:00:00 | [PDF](lessons/lesson-01/printable.pdf) | [原文](https://mp.weixin.qq.com/s/xJ9JdOZpe_XqP2w_0yHIMg) |
-| 02 | [短剧编剧第一课｜02期：揭秘题材与IP选择的底层逻辑](lessons/lesson-02/article.md) | 2025-12-15 11:45:00 | [PDF](lessons/lesson-02/printable.pdf) | [原文](https://mp.weixin.qq.com/s/C8l7qTI-aAq5CHHQSjHIFg) |
-| 03 | [短剧编剧第一课｜03期：如何打造吸睛的黄金开场](lessons/lesson-03/article.md) | 2025-12-19 11:30:00 | [PDF](lessons/lesson-03/printable.pdf) | [原文](https://mp.weixin.qq.com/s/DRwpTSOprevZKgdJ5ia9wg) |
-| 04 | [短剧编剧第一课｜04期：揭秘主线设计的底层逻辑](lessons/lesson-04/article.md) | 2025-12-24 11:30:00 | [PDF](lessons/lesson-04/printable.pdf) | [原文](https://mp.weixin.qq.com/s/x9sXM_DOCtpqtBE4t9gzMg) |
-| 05 | [短剧编剧第一课｜05期：揭秘短剧节奏的设计密码](lessons/lesson-05/article.md) | 2025-12-31 11:30:00 | [PDF](lessons/lesson-05/printable.pdf) | [原文](https://mp.weixin.qq.com/s/l_XKgSAaXseko8zJfjvtxA) |
-| 06 | [短剧编剧第一课｜06期：期待、悬念、钩子设置的底层逻辑](lessons/lesson-06/article.md) | 2026-01-06 11:33:05 | [PDF](lessons/lesson-06/printable.pdf) | [原文](https://mp.weixin.qq.com/s/a9Euw2Rs6hi2nfK-6iWilg) |
-| 07 | [短剧编剧第一课｜07期：详解短剧情绪点设计的实操技巧](lessons/lesson-07/article.md) | 2026-01-15 11:45:00 | [PDF](lessons/lesson-07/printable.pdf) | [原文](https://mp.weixin.qq.com/s/H3-jsAth11A5zZsAGnfYKw) |
-| 08 | [短剧编剧第一课｜ 08期：如何让你的剧本“更好过稿”并顺利落地？](lessons/lesson-08/article.md) | 2026-01-22 11:45:00 | [PDF](lessons/lesson-08/printable.pdf) | [原文](https://mp.weixin.qq.com/s/IEFNcUBgQW-qLFlGK8cdmQ) |
-| 09 | [短剧编剧第一课｜09期：详解台词打磨的实战方法](lessons/lesson-09/article.md) | 2026-01-27 11:47:36 | [PDF](lessons/lesson-09/printable.pdf) | [原文](https://mp.weixin.qq.com/s/d6D0hFg2Bj1GKqiElUWFQw) |
-| 10 | [短剧编剧第一课｜10期：网文作者转型实战指南](lessons/lesson-10/article.md) | 2026-02-04 11:45:00 | [PDF](lessons/lesson-10/printable.pdf) | [原文](https://mp.weixin.qq.com/s/kix71hZwgt5Ua0qc06y8Ww) |
+| 课次 | 主题 | 发布日期 | 阅读 |
+| --- | --- | --- | --- |
+| 01 | 新人入行前必看的创作指南 | 2025-10-31 | [Markdown](lessons/lesson-01/article.md) / [PDF](lessons/lesson-01/printable.pdf) |
+| 02 | 揭秘题材与IP选择的底层逻辑 | 2025-12-15 | [Markdown](lessons/lesson-02/article.md) / [PDF](lessons/lesson-02/printable.pdf) |
+| 03 | 如何打造吸睛的黄金开场 | 2025-12-19 | [Markdown](lessons/lesson-03/article.md) / [PDF](lessons/lesson-03/printable.pdf) |
+| 04 | 揭秘主线设计的底层逻辑 | 2025-12-24 | [Markdown](lessons/lesson-04/article.md) / [PDF](lessons/lesson-04/printable.pdf) |
+| 05 | 揭秘短剧节奏的设计密码 | 2025-12-31 | [Markdown](lessons/lesson-05/article.md) / [PDF](lessons/lesson-05/printable.pdf) |
+| 06 | 期待、悬念、钩子设置的底层逻辑 | 2026-01-06 | [Markdown](lessons/lesson-06/article.md) / [PDF](lessons/lesson-06/printable.pdf) |
+| 07 | 详解短剧情绪点设计的实操技巧 | 2026-01-15 | [Markdown](lessons/lesson-07/article.md) / [PDF](lessons/lesson-07/printable.pdf) |
+| 08 | 如何让你的剧本“更好过稿”并顺利落地？ | 2026-01-22 | [Markdown](lessons/lesson-08/article.md) / [PDF](lessons/lesson-08/printable.pdf) |
+| 09 | 详解台词打磨的实战方法 | 2026-01-27 | [Markdown](lessons/lesson-09/article.md) / [PDF](lessons/lesson-09/printable.pdf) |
+| 10 | 网文作者转型实战指南 | 2026-02-04 | [Markdown](lessons/lesson-10/article.md) / [PDF](lessons/lesson-10/printable.pdf) |
 
+## 推荐阅读方式
 
-## 建议阅读顺序
+如果你想快速建立短剧编剧框架，可以按这条线读：
 
-1. 先读 01 期，理解短剧编剧的行业入口和思维转换。
-2. 读 02-04 期，掌握题材/IP、黄金开场和主线设计。
-3. 读 05-07 期，掌握节奏、悬念、钩子和情绪点。
-4. 读 08-10 期，检查剧本落地性、台词打磨和网文作者转型。
-
-## 打印建议
-
-优先使用 `pdf/hongguo-shortdrama-course-01-10-balanced-print.pdf`。这版 43 页，兼顾可读性和省纸。`compact-print.pdf` 是更省纸的 37 页版本，字号更小。
+1. **01**：先理解短剧行业和新人入行门槛。
+2. **02-04**：看题材/IP、黄金开场、主线设计，解决“故事怎么立住”。
+3. **05-07**：看节奏、悬念、钩子、情绪点，解决“观众为什么继续看”。
+4. **08-10**：看剧本落地性、台词打磨、网文作者转型，解决“稿子怎么更容易过稿和拍出来”。
 
 ## 文件结构
 
 ```text
 .
+├── README.md
 ├── INDEX.md
 ├── SOURCES.md
 ├── NOTICE.md
 ├── pdf/
-│   ├── hongguo-shortdrama-course-01-10-balanced-print.pdf
-│   └── hongguo-shortdrama-course-01-10-compact-print.pdf
-├── lessons/
-│   └── lesson-XX/
-│       ├── article.md
-│       ├── article-print.md
-│       ├── metadata.json
-│       ├── printable.pdf
-│       └── assets/
-└── scripts/
+│   └── hongguo-shortdrama-course-01-10-balanced-print.pdf
+└── lessons/
+    └── lesson-XX/
+        ├── article.md
+        ├── article-print.md
+        ├── metadata.json
+        ├── printable.pdf
+        └── assets/
 ```
 
-## 复现说明
+## 版权说明
 
-`scripts/` 里保留了本地抽取和 PDF 生成脚本。脚本依赖 Python、ReportLab、pypdf 以及 macOS 中文字体；不同系统上生成效果可能略有差异。
+本仓库不主张对原公众号文章内容拥有版权。详见 [NOTICE.md](NOTICE.md)。
